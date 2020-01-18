@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL2_Snake_Game_", "SDL2_Snake_Game_\SDL2_Snake_Game_.vcxproj", "{730CD6F1-4DD9-489F-AA69-4ACF77411972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Debug|x64.ActiveCfg = Debug|x64
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Debug|x64.Build.0 = Debug|x64
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Debug|x86.ActiveCfg = Debug|Win32
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Debug|x86.Build.0 = Debug|Win32
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Release|x64.ActiveCfg = Release|x64
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Release|x64.Build.0 = Release|x64
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Release|x86.ActiveCfg = Release|Win32
+		{730CD6F1-4DD9-489F-AA69-4ACF77411972}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0D339AA-C2E8-4915-A84A-AD657EAE2C80}
+	EndGlobalSection
+EndGlobal
